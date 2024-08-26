@@ -6,7 +6,8 @@ This is my first mod, I hope you enjoy!
 Kolony Constructs Aims to add a suite of new parts and statics for building bases and colonies. 
 
 What this mod adds (so far)
-  ESA "Moon village" inspired parts/statics
+
+ESA "Moon village" inspired parts/statics
 
   Forum page: https://forum.kerbalspaceprogram.com/topic/225848-wip-kolony-constructs-v01/ 
 
