@@ -1,4 +1,4 @@
-# Kolony-Constructs
+# Kolony Constructs
 New parts/statics for KSP for bases and colonies
 
 This is my first mod, I hope you enjoy!
