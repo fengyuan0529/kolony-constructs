@@ -12,10 +12,15 @@ ESA "Moon village" inspired parts/statics
   Forum page: https://forum.kerbalspaceprogram.com/topic/225848-wip-kolony-constructs-v01/ 
 
 DEPENDENCIES: 
+
 Module Manager
+
 Kerbal Konstructs
+
 Stockalike Station Parts Expansion Redux
 
 RECCOMENDED MODS:
+
 Habtech2
+
 OSSNTR
